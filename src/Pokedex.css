@@ -4,6 +4,12 @@
   flex-wrap: wrap;
 }
 
-.Pokedex-title {
-  margin: 20px auto;
+.Pokedex-winner {
+  color: green;
+  margin-top: 15px;
+}
+
+.Pokedex-loser {
+  color: red;
+  margin-top: 15px;
 }
